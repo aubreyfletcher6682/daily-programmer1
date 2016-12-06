@@ -1,0 +1,6 @@
+c:\users\aubrey\documents\visual studio 2015\Projects\scrabbleTiles\scrabbleTiles\bin\Debug\scrabbleTiles.exe.config
+c:\users\aubrey\documents\visual studio 2015\Projects\scrabbleTiles\scrabbleTiles\obj\Debug\scrabbleTiles.csprojResolveAssemblyReference.cache
+c:\users\aubrey\documents\visual studio 2015\Projects\scrabbleTiles\scrabbleTiles\bin\Debug\scrabbleTiles.exe
+c:\users\aubrey\documents\visual studio 2015\Projects\scrabbleTiles\scrabbleTiles\bin\Debug\scrabbleTiles.pdb
+c:\users\aubrey\documents\visual studio 2015\Projects\scrabbleTiles\scrabbleTiles\obj\Debug\scrabbleTiles.exe
+c:\users\aubrey\documents\visual studio 2015\Projects\scrabbleTiles\scrabbleTiles\obj\Debug\scrabbleTiles.pdb
